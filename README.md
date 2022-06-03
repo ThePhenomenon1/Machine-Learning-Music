@@ -4,7 +4,7 @@
 
 Machine Learning - a subset of Artificial Intelligence
 
-We use it to build a music recommender algorithm. Then we persist the model with joblib. 
+We use it to build a music recommender algorithm. Then we persist the model with the joblib module. 
 
 The algorithm we use is the Decision Tree Classifier from Scikit-learn. Scikit-learn [with it's package sklearn] is the software ML library with efficient tools for predictive data analysis. It features neural networks and decision trees. Features classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting and DBSCAN. It is designed to interoperate with the Python numerical and scientific libraries NumPy, SciPy and matplotlib. 
 
