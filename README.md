@@ -1,7 +1,7 @@
 ![Machine Learning Certificate](https://user-images.githubusercontent.com/96743401/173188516-cbc43764-829c-44a3-969d-a4fdf2cb5dc9.png)
 # Machine-Learning-Music
 
-Machine Learning - a subset of Artificial Intelligence
+Machine Learning - a subset of Artificial Intelligence.
 
 We use it to build a music recommender algorithm. Then we persist the model with the joblib module. 
 
@@ -10,7 +10,7 @@ It is designed to interoperate with the Python numerical and scientific librarie
 
 Scikit-learn has 100 to 200 models (called "estimators"), split into 3 categories:
 
-1. Supervised Learning (linear regression, support vector machines, random forest, neural nets ...)
-2. Unsupervised Learning (clustering, PCA, mixture models, manifold learning ...)
-3. Dataset Transformation (preprocessing, text feature extraction, one-shot encoding)
+1. Supervised Learning (linear regression, support vector machines, random forest, neural nets ...).
+2. Unsupervised Learning (clustering, PCA, mixture models, manifold learning ...).
+3. Dataset Transformation (preprocessing, text feature extraction, one-shot encoding).
 
