@@ -1,5 +1,5 @@
 ![Machine Learning Certificate](https://user-images.githubusercontent.com/96743401/173188516-cbc43764-829c-44a3-969d-a4fdf2cb5dc9.png)
-# Machine-Learning-Music
+# Machine-Learning-Music Recommender
 
 Machine Learning - a subset of Artificial Intelligence.
 
