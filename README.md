@@ -10,7 +10,7 @@ Scikit-learn [with it's package sklearn] is the software ML library with efficie
 
 It is designed to interoperate with the Python numerical and scientific libraries NumPy, SciPy and matplotlib. 
 
-Scikit-learn has 100 to 200 models (called "estimators"), split into 3 categories:
+Scikit-learn boasts 100 to 200 models (called "estimators"), split into 3 categories:
 
 1. Supervised Learning (linear regression, support vector machines, random forest, neural nets ...).
 2. Unsupervised Learning (clustering, PCA, mixture models, manifold learning ...).
