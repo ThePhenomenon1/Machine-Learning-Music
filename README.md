@@ -12,7 +12,7 @@ It is designed to interoperate with the Python numerical and scientific librarie
 
 Scikit-learn boasts 100 to 200 models (called "estimators"), split into 3 categories:
 
-1. Supervised Learning (linear regression, support vector machines, random forest, neural nets ...).
-2. Unsupervised Learning (clustering, PCA, mixture models, manifold learning ...).
+1. Supervised Learning (linear regression, support vector machines, random forest, neural nets ...)
+2. Unsupervised Learning (clustering, PCA, mixture models, manifold learning ...)
 3. Dataset Transformation (preprocessing, text feature extraction, one-shot encoding).
 
