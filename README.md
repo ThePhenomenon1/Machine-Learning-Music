@@ -6,7 +6,9 @@ Machine Learning - a subset of Artificial Intelligence.
 We use ML to build a music recommender algorithm. Then we persist our data model with the joblib module. 
 
 The algorithm we use here is the Decision Tree Classifier from Scikit-learn, inititally developed by David Cournapeau. 
-A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one way to display an algorithm that only contains conditional control statements.
+A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one way to display an algorithm that only contains conditional control statements. This is an example of alignment.
+
+(Alignment refers to a model’s ability to follow user objectives.)
 
 Scikit-learn [with it's package sklearn] is the software ML library with efficient tools for predictive data analysis. It features neural networks and decision trees. Sklearn also boasts classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting and DBSCAN.
 
