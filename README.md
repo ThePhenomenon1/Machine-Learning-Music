@@ -10,7 +10,7 @@ A decision tree is a decision support tool that uses a tree-like model of decisi
 
 Alignment refers to a model’s ability to follow user objectives. (Meanwhile, Random Forests are a way of averaging multiple deep decision trees, trained on different parts of the same training set, with the goal of reducing the variance.)
 
-The implementation I am using on my Boutique ecommerce project is a Feed Forward Neural network with 2 hidden linear layers. These Natural Language Processing(NLP) methods are trained on PyTorch.
+The implementation I am using on my Boutique ecommerce project is a Feed Forward Neural network with 2 hidden linear layers. These Natural Language Processing (NLP) methods are trained on PyTorch.
 
 Scikit-learn [with it's package sklearn] is the software ML library with efficient tools for predictive data analysis. It features neural networks and decision trees. Sklearn also boasts classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting and DBSCAN.
 
