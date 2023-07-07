@@ -13,7 +13,7 @@ Alignment refers to a model’s ability to follow user objectives. (Meanwhile, R
 The implementation I am using on my Boutique ecommerce project is a Feed Forward Neural network with 2 hidden linear layers.
 A feedforward neural network (FNN) is an artificial neural network wherein connections between the nodes do not form a cycle. As such, it is different from its descendant: recurrent neural networks.
 
-The feedforward neural network was the first and simplest type of artificial neural network devised. In this network, the information moves in only one direction—forward—from the input nodes, through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network.
+The feedforward neural network was the first and simplest type of artificial neural network devised. In this network, the information moves in only one direction - forward - from the input nodes, through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network.
 
 These Natural Language Processing (NLP) methods propelling my A.I. Assistant are trained on PyTorch. The data is cached by Redis.
 
