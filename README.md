@@ -10,8 +10,8 @@ A decision tree is a decision support tool that uses a tree-like model of decisi
 
 Alignment refers to a model’s ability to follow user objectives. (Meanwhile, Random Forests are a way of averaging multiple deep decision trees, trained on different parts of the same training set, with the goal of reducing the variance.)
 
-The implementation I am using on my Boutique ecommerce project is a Feed Forward Neural network with 2 hidden linear layers.
-A feedforward neural network (FNN) is an artificial neural network wherein connections between the nodes do not form a cycle. As such, it is different from its descendant: recurrent neural networks.
+The implementation I am using on my Boutique ecommerce project is a Feed Forward Neural network (FNN) with 2 hidden linear layers.
+A FNN is an artificial neural network wherein connections between the nodes do not form a cycle. As such, it is different from its descendant: recurrent neural networks.
 
 The feedforward neural network was the first and simplest type of artificial neural network devised. In this network, the information moves in only one direction - forward - from the input nodes, through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network.
 
