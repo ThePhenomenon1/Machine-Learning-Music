@@ -15,7 +15,7 @@ A FNN is an artificial neural network wherein connections between the nodes do n
 
 The feedforward neural network was the first and simplest type of artificial neural network (ANN) devised. In this network, the information moves in only one direction - forward - from the input nodes, through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network.
 
-These Natural Language Processing (NLP) methods propelling my A.I. Assistant are trained on PyTorch. The data is cached by Redis.
+These Natural Language Processing (NLP) methods propelling my experimental A.I. Assistant are trained on PyTorch. The data is cached by Redis.
 
 Scikit-learn (with it's package sklearn) is the software ML library with efficient tools for predictive data analysis. It features neural networks and decision trees. Sklearn also boasts classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting and DBSCAN.
 
